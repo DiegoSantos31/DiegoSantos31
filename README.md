@@ -6,9 +6,7 @@
 
 <h3 align="left">About me</h3><br>
 
-I’m a full-stack web developer with experience in Java and TypeScript, always looking for new challenges. I began my journey by building strong skills in various technologies, including Spring, React, Node.js, Angular, and SQL.
 
-My greatest strength? Persistence! I’m not the type to give up easily — I face problems head-on until I find the best solution. With a keen eye for detail and a commitment to excellence, I’m ready to contribute to innovative and impactful projects.
 
 ##
 
@@ -16,7 +14,7 @@ My greatest strength? Persistence! I’m not the type to give up easily — I fa
   <h3>GitHub Stats</h3>
   <br>
   <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EduardoRodriues&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DiegoSantos31&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
